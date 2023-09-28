@@ -1,2 +1,2 @@
 # coding-project-template
-This repo is for the practice project which is to be based on Embedded AI libraries. 
+This code from practice project from course Developing AI Applications with Python and Flask
